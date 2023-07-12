@@ -6,5 +6,7 @@ This work aims to provide a comprehensive evaluation of unidirectional and bidir
 
 From the experiment results as shown in the figure, it can be observed that the Bi-GRU model achieves the highest accuracy of 90.95%, followed by the Bi-LSTM model with 89.33%, the GRU model with 88.63%, and lastly, the LSTM model with 81.90%. The bidirectional models (Bi-LSTM and Bi-GRU) demonstrate better performance in terms of accuracy compared to their unidirectional counterparts (LSTM and GRU). This can be attributed to the way bidirectional models process the input data. They capture information from both past and future time steps, allowing them to understand the context more effectively, leading to improved predictions. In contrast, unidirectional models only process input data from past time steps, limiting their ability to capture future context.
 
-![Table1](https://github.com/sammyyap98/Evaluation-of-Uni-and-Bidirectional-RNN/assets/87789723/ac696746-da5e-422b-b922-7d3ff61fb544)
 
+![Table_1](https://github.com/sammyyap98/Evaluation-of-Uni-and-Bidirectional-RNN/assets/87789723/b52c5449-5286-4996-8835-05d20292e72e)
+
+![Table_2](https://github.com/sammyyap98/Evaluation-of-Uni-and-Bidirectional-RNN/assets/87789723/4a5adaf4-4b35-45b7-a531-c638a8e75833)
