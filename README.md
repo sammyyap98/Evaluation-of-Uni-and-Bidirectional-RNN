@@ -9,4 +9,6 @@ From the experiment results as shown in the figure, it can be observed that the 
 
 ![Table_1](https://github.com/sammyyap98/Evaluation-of-Uni-and-Bidirectional-RNN/assets/87789723/b52c5449-5286-4996-8835-05d20292e72e)
 
+Here
+
 ![Table_2](https://github.com/sammyyap98/Evaluation-of-Uni-and-Bidirectional-RNN/assets/87789723/4a5adaf4-4b35-45b7-a531-c638a8e75833)
